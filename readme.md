@@ -288,12 +288,4 @@ node client.js shizuka
   |- package.json
 ```
 
----
 
-If you want, I can also:
-
-* Convert server messages to JSON and update the client to parse and pretty-print them.
-* Add disconnect handling and username collision handling.
-* Create a small demo script to open multiple clients automatically for testing.
-
-Happy coding! ✨
